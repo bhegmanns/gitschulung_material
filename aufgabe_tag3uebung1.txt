@@ -1,0 +1,28 @@
+Tag 3 Übung 1
+=============
+
+Entzippen Sie das Repository tag3uebung1.
+Schauen Sie sich die commit-Historie an.
+
+-a-
+Verändern Sie die commit-Nachricht zu
+"ToDo-Liste"
+
+-b-
+Führen Sie alle Commits, die die
+Einkaufsliste (einkaufsliste.txt)
+verändern zu einem commit zusammen
+mit dem Namen "Einkaufsliste KW 13"
+
+-c-
+Führen Sie alle Commits, die den
+Essensplan (essensplan.txt)
+verändern, zu einem commit zusammen
+mit dem Namen "Essensplan KW 12"
+
+Tipps:
+git log
+git add .
+git commit
+git commit --amend
+git rebase -i

@@ -1,0 +1,26 @@
+Tag 3 Übung 2
+=============
+
+Entzippen Sie das Repository tag3uebung2.
+Ermitteln Sie, welche Branche es gibt.
+(es gibt keine remote Branche)
+
+Mergen Sie den zusätzlichen Branch in den master.
+(Namen haben Sie oben ermittelt)
+und beheben Sie ggf. auftretende Merge-Konflikte
+so, dass sich ein Tätigkeitsbericht ergibt,
+der für jeden Tag einen Eintrag in chronologischer
+Reihenfolge enthält.
+
+Committen Sie anschließend ihr Ergebnis.
+Löschen Sie den zusätzlichen Branch.
+Schauen Sie sich die Historie an.
+
+
+Tipps:
+git log
+git branch
+git merge
+git branch -d <branch> (Branch löschen)
+git commit -m "Message"
+git add .

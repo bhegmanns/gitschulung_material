@@ -1,0 +1,25 @@
+Tag 3 Übung 5
+=============
+Entzippen Sie das Repository tag3uebung5.
+
+Ermitteln Sie, welche Branche es gibt.
+(es gibt keine remote Branche)
+
+Versuchen Sie in den master-Branch zu wecheln.
+Funktioniert dies?
+Sichern Sie Ihre aktuellen Änderungen im Stash.
+Wechseln Sie dann in den master-Branch.
+Holen Sie sich den Stash-Inhalt.
+Schauen Sie sich das Ergebnis an.
+
+Tipps:
+git branch
+git log
+git status
+git checkout
+git stash
+git stash list
+git stash apply
+git stash apply <name>
+
+

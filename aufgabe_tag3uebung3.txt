@@ -1,0 +1,22 @@
+Tag 3 Übung 3
+=============
+Entzippen Sie das Repository tag3uebung3.
+
+Ermitteln Sie, welche Branche es gibt.
+(es gibt keine remote Branche)
+
+Schauen Sie sich die Historie an und den Status
+des Workspaces.
+
+
+Setzen Sie das Repository auf das erste Commit zurück,
+leeren den Index. Ihr Workspace soll aber bestehen bleiben.
+
+
+Tipps:
+git branch
+git log
+git status
+git reset (--hard, --soft, --mixed)
+
+

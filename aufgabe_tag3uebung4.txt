@@ -1,0 +1,20 @@
+Tag 3 Übung 4
+=============
+Entzippen Sie das Repository tag3uebung4.
+
+Ermitteln Sie, welche Branche es gibt.
+(es gibt keine remote Branche)
+
+Schauen Sie sich die Historie an und den Status
+des Workspaces.
+
+Setzen Sie den Workspace auf den Stand des erten Commits.
+Ihr Index soll dabei entleert werden.
+
+Tipps:
+git branch
+git log
+git status
+git reset (--hard, --soft, --mixed)
+
+

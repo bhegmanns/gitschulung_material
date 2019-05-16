@@ -1,0 +1,16 @@
+Tag 3 Übung 6
+=============
+
+Entzippen Sie das Repository tag3uebung6.
+
+Ermitteln Sie, welche Branche es gibt.
+(es gibt keine remote Branche)
+
+Überführen Sie die Änderungen im Branch "nebenbranch"
+in den Master mit Hilfe merge.
+
+Tipps:
+git status
+git checkout
+git merge
+git commit
